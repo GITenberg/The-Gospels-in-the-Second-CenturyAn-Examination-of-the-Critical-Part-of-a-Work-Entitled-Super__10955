@@ -1,0 +1,33 @@
+_repo: The-Gospels-in-the-Second-CenturyAn-Examination-of-the-Critical-Part-of-a-Work-Entitled-Super__10955
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sanday, W. (William)
+    aliases:
+    - Sanday, Rev. Dr. (William)
+    - Sanday, William
+    birthdate: 1843
+    deathdate: 1920
+    gutenberg_agent_id: '3766'
+    url: http://www.gutenberg.org/2009/agents/3766
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10955'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cassels, Walter Richard, 1826-1907. Supernatural religion'
+- !lcsh 'Church history -- Primitive and early church, ca. 30-600'
+- !lcsh 'Bible. Gospels -- Evidences, authority, etc.'
+- !lcsh 'Revelation -- Biblical teaching'
+- !lcsh 'Bible. Gospels -- Canon'
+- !lcc 'BT'
+- GITenberg
+title: 'The Gospels in the Second Century
+
+  An Examination of the Critical Part of a Work Entitled ''Supernatural Religion'''
+url: http://www.gutenberg.org/ebooks/10955
